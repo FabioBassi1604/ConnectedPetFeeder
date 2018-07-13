@@ -1,0 +1,11 @@
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\bin\Debug\netcoreapp2.0\SmartphoneApp.deps.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\bin\Debug\netcoreapp2.0\SmartphoneApp.runtimeconfig.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\bin\Debug\netcoreapp2.0\SmartphoneApp.runtimeconfig.dev.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\bin\Debug\netcoreapp2.0\SmartphoneApp.dll
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\obj\Debug\netcoreapp2.0\SmartphoneApp.csprojAssemblyReference.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\obj\Debug\netcoreapp2.0\SmartphoneApp.csproj.CoreCompileInputs.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\obj\Debug\netcoreapp2.0\SmartphoneApp.AssemblyInfoInputs.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\obj\Debug\netcoreapp2.0\SmartphoneApp.AssemblyInfo.cs
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\bin\Debug\netcoreapp2.0\SmartphoneApp.pdb
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\obj\Debug\netcoreapp2.0\SmartphoneApp.dll
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\WebApplication1\obj\Debug\netcoreapp2.0\SmartphoneApp.pdb

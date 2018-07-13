@@ -1,0 +1,40 @@
+﻿@model SmartphoneApp.Models.CiotolaModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Funziona</h2>
+<div class="main-container">
+    <input id="com" name="Cmd" type="text">
+    @Html.DisplayNameFor(model => model.Dose)
+    <button>Stato ciotola</button>
+    <button onclick="fillCiotola()">Riempi ciotola</button>
+</div>
+@section Scripts
+    {
+    <script type="text/javascript">
+
+        var fillCiotola = function () {
+
+            document.getElementById("com").value = "refill"
+
+            var cmd = $("[name=Cmd]").val();
+            
+            var url = '@Url.Action("FillCiotola", new {id=Model.Id})';
+
+            var request = { cmd: cmd };
+
+            $.ajax({
+                url: url,
+                type: 'post',
+                contentType: "application/json; charset=utf-8",
+                dataType: 'json',
+                data: JSON.stringify(request)
+            })
+                .done()
+                .fail();
+        };
+    </script>
+}
+

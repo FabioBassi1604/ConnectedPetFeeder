@@ -1,0 +1,8 @@
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.deps.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.runtimeconfig.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.runtimeconfig.dev.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\bin\Debug\netcoreapp2.0\PadroncinoInTheCloud.dll
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.csprojAssemblyReference.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.csproj.CoreCompileInputs.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.AssemblyInfoInputs.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\PadroncinoInTheCloud\obj\Debug\netcoreapp2.0\PadroncinoInTheCloud.AssemblyInfo.cs

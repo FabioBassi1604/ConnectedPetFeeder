@@ -1,0 +1,8 @@
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\bin\Debug\netcoreapp2.0\AutomaticConnectedCiotola.deps.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\bin\Debug\netcoreapp2.0\AutomaticConnectedCiotola.runtimeconfig.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\bin\Debug\netcoreapp2.0\AutomaticConnectedCiotola.runtimeconfig.dev.json
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\bin\Debug\netcoreapp2.0\AutomaticConnectedCiotola.dll
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\obj\Debug\netcoreapp2.0\AutomaticConnectedCiotola.csprojAssemblyReference.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\obj\Debug\netcoreapp2.0\AutomaticConnectedCiotola.csproj.CoreCompileInputs.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\obj\Debug\netcoreapp2.0\AutomaticConnectedCiotola.AssemblyInfoInputs.cache
+C:\Users\LOLma\source\repos\ConnectedPetFeeder\AutomaticConnectedCiotola\obj\Debug\netcoreapp2.0\AutomaticConnectedCiotola.AssemblyInfo.cs
